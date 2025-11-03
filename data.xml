@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VRAR>
+<VR>
+            <zalozyciel>Myron W Krueger</zalozyciel>
+            <Powstanie>1968</Powstanie>
+            <Age amt="years">57</Age>
+            <Service>do teraz</Service>
+</VR>
+
+<AR>
+            <zalozyciel>Ivan Sutherland</zalozyciel>
+            <powstanie>1942</powstanie>
+            <Age amt="years">93</Age>
+            <Service>do teraz</Service>
+</AR>
+
+<MR>
+            <zalozyciel>Paul Milgram</zalozyciel>
+            <Powstanie>1994</Powstanie>
+            <Age amt="years">31</Age>
+            <Service>do teraz</Service>
+</MR>
+</VRAR>

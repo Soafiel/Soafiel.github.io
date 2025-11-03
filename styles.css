@@ -26,4 +26,22 @@ input, select {
     border-radius: 8px;
     border: 1px solid #ccc;
     background-color: #c0ddfd; /* niebieskie tło */
+/* tabelka */
+#costam{
+    text-align: center;
+    margin-top: 30px;
+    color: #000000;
+  }
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+  }
+  th {
+    background-color: black;
+    color: white;
   }

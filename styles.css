@@ -45,3 +45,57 @@ table {
     background-color: black;
     color: white;
   }
+    menu{
+    text-align: center;
+}
+#tytulglowny{
+    text-align: center;
+    color: green;
+}
+.container{
+    display:flex;
+}
+.column{ flex: 1;
+    margin: 10px;
+    border:solid 1px black;
+    padding: 15px;
+    border-radius: 8px;
+}
+@media (max-width: 768px){
+    .container{ flex-direction: column;
+    }
+
+}
+#paragrafglowny{
+    font-style: italic;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: justify;
+}
+#a:hover{
+    background-color: blue;
+}
+#b:hover{
+    background-color: blue;
+}
+#c:hover{
+    background-color: blue;
+}
+#tytulzdjecia{
+    text-align: center;
+    padding: 10px;
+}
+img{
+    height: 250px;
+    width: 250px;
+    margin: 10px;
+    border: solid 2px navy;
+}
+#tytulautorzy{
+    margin: 10px;
+    text-align: center;
+}
+#autorzy{
+    border: solid 1px gold;
+    font-weight: bold;
+}

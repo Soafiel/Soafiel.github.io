@@ -1,0 +1,20 @@
+[
+    {
+        "nazwa": "VR",
+        "zalozyciel": "Myron W Kueger",
+        "powstanie": 1968,
+        "dziala": true
+    },
+    {
+        "nazwa": "AR",
+        "zalozyciel": "Ivan Sutherland",
+        "powstanie": 1942,
+        "dziala": true
+    },
+    {
+        "nazwa": "MR",
+        "zalozyciel": "Paul Milgram",
+        "powstanie": 1994,
+        "dziala": true
+    }
+]
